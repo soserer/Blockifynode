@@ -1,8 +1,10 @@
 # Blockify 🤖
 
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1879192210756820992/1736869471/1500x500" width="100%" />
+  <img src="https://pbs.twimg.com/profile_banners/1878318095447556096/1736818213/1500x500" width="100%" /> 
 </div>
+
+>ca ???
 
 ## ✨ Features
 
